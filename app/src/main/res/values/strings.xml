@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ControlDonantesSangre</string>
+
+    <string name="bienvenido">Bienvenido al Control de Donantes</string>
+    <string name="iniciaSesion">Inicia sesión para empezar</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="btn_text_login">INICIAR SESION</string>
+    <string name="btn_text_registro">NUEVO USUARIO</string>
+    <string name="hint_edit_persona">Escriba id del donante</string>
+    <string name="id">Id</string>
+    <string name="Nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="edad">Edad</string>
+    <string name="estatura">Estatura</string>
+    <string name="sangre">Tipo de sangre</string>
+    <string name="rh">RH</string>
+    <string name="peso">Peso</string>
+
+    <string name="nuevoUsuario">Nuevo usuario</string>
+    <string name="usuario">Nombre de usuario</string>
+    <string name="contrasenaConfirmar">Confirmar contraseña</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="registrar">REGISTRAR</string>
+    <string name="llenar_campos">Llenar todos los campos</string>
+    <string name="usuario_registrado">Usuario registrado</string>
+
+    <string name="error_message">Este campo es necesario para realizar la búsqueda.</string>
+    <string name="EDITAR">editar</string>
+</resources>
+
+
